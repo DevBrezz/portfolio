@@ -1,15 +1,16 @@
 {
-  "lastSynced": "2026-11-21T09:47:38.155Z",
+  "lastSynced": "2026-11-21T17:29:53.391Z",
   "sources": {
     "modrinth": {
       "status": "success",
       "count": 10,
-      "lastSuccess": "2026-11-21T09:47:38.155Z"
+      "lastSuccess": "2026-11-21T17:29:53.391Z"
     },
     "spigot": {
-      "status": "success",
+      "status": "error",
       "count": 42,
-      "lastSuccess": "2026-11-21T09:47:38.155Z"
+      "lastSuccess": "2026-11-21T09:47:38.155Z",
+      "note": "SpigotMC fetch failed (Cloudflare or network). Previous data retained."
     }
   },
   "resources": [
@@ -1156,7 +1157,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 27,
+      "downloads": 29,
       "published": "2026-10-08T14:24:52.660471Z",
       "updated": "2026-10-09T09:54:58.620523Z",
       "url": "https://modrinth.com/project/antiadvertising",
@@ -1218,7 +1219,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 183,
+      "downloads": 186,
       "published": "2026-10-08T11:33:06.859961Z",
       "updated": "2026-10-08T13:57:12.135498Z",
       "url": "https://modrinth.com/project/nightvision-kingbrezz",
@@ -1267,7 +1268,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 88,
+      "downloads": 89,
       "published": "2026-10-06T15:16:57.280867Z",
       "updated": "2026-10-06T15:22:43.732471Z",
       "url": "https://modrinth.com/project/costumeenchant",
@@ -1304,7 +1305,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 96,
+      "downloads": 97,
       "published": "2026-09-30T12:06:22.269341Z",
       "updated": "2026-09-30T12:08:27.674287Z",
       "url": "https://modrinth.com/project/autorestart-kingbrezz",
@@ -1338,7 +1339,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 116,
+      "downloads": 118,
       "published": "2026-09-30T06:52:17.802504Z",
       "updated": "2026-09-30T06:57:18.919692Z",
       "url": "https://modrinth.com/project/antilag-kingbrezz",
@@ -1373,7 +1374,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 146,
+      "downloads": 148,
       "published": "2026-09-29T23:27:30.922269Z",
       "updated": "2026-09-29T23:33:58.740808Z",
       "url": "https://modrinth.com/project/clearlag-kingbrezz",
@@ -1411,7 +1412,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 441,
+      "downloads": 449,
       "published": "2026-09-28T21:19:40.431311Z",
       "updated": "2026-09-28T21:21:35.165404Z",
       "url": "https://modrinth.com/project/zantifreecam",
@@ -1450,7 +1451,7 @@
         "26.3"
       ],
       "version": "latest",
-      "downloads": 1259,
+      "downloads": 1295,
       "published": "2026-09-23T06:47:33.595644Z",
       "updated": "2026-09-23T06:54:49.657779Z",
       "url": "https://modrinth.com/project/donut-shop-itzbrezz",
